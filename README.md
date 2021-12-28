@@ -1,2 +1,2 @@
-# assignment2
-Shopping list Small Module in Angular
+# Shopping List
+Shopping list Module in Angular
